@@ -1,0 +1,15 @@
+[
+{
+  "modid": "arkhamplus",
+  "name": "Arkham+",
+  "description": "Arkham Server Mod",
+  "version": "1.1",
+  "url": "http://www.arkhamnetwork.org/",
+  "updateUrl": "",
+  "authorList": ["Euras"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
